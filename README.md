@@ -8,8 +8,8 @@ pip install torch torchvision
 ```
 
 ## Data
-- [GAN testing datasets]()
-- Download the file and unzip it in `datasets/test`
+- [GAN testing datasets](https://drive.google.com/file/d/1z_fD3UKgWQyOTZIBbYSaQ-hz4AzUrLC1/view) 
+- Download the file and unzip it in `datasets/test` as following structure:
 ```
 
 datasets
@@ -23,8 +23,8 @@ datasets
 	  
 ```
 
-- [Diffusion testing datasets]()
-- Download the file and unzip it in `./diffusion_datasets`
+- [Diffusion testing datasets](https://drive.google.com/file/d/1FXlGIRh_Ud3cScMgSVDbEWmPDmjcrm1t/view)
+- Download the file and unzip it in `./diffusion_datasets` as following structure:
 ```
 
 diffusion_datasets
