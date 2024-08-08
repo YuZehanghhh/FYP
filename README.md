@@ -70,3 +70,5 @@ python validate.py  --arch=CLIP:RN50  --ckpt=weights/cliprn50_parameters.pth   -
 python validate.py  --arch=CLIP:ViT-L/14   --ckpt=weights/clip14_parameters.pth   --result_folder=clip_vitl14  --real_path datasets/test/deepfake/0_real --fake_path datasets/test/deepfake/1_fake
 ```
 - All the pretrained parameters are in 'weights' folder
+
+
