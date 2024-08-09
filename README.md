@@ -8,7 +8,7 @@ pip install torch torchvision
 ```
 
 ## Data
-- [GAN testing datasets](https://drive.google.com/file/d/1z_fD3UKgWQyOTZIBbYSaQ-hz4AzUrLC1/view) 
+- [GAN testing datasets](https://drive.google.com/drive/folders/1RwCSaraEUctIwFgoQXWMKFvW07gM80_3) 
 - Download the file and unzip it in `datasets/test` as following structure:
 ```
 
